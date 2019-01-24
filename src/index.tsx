@@ -9,8 +9,8 @@ import {version} from "../package.json"
 ReactDOM.render(<App />, document.getElementById('root'));
 
 Sentry.init({
-    dsn: "https://cd1cddbeff664ad1aed5d1a882c01d25@sentry.io/1370243"
-    
+    dsn: "https://cd1cddbeff664ad1aed5d1a882c01d25@sentry.io/1370243",
+    release : version
   });
   
 // If you want your app to work offline and load faster, you can change
