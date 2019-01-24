@@ -1,14 +1,14 @@
 {
-  "main.css": "/ElyasMTarek/react-typescript-sentry/static/css/main.9bd68662.chunk.css",
-  "main.js": "/ElyasMTarek/react-typescript-sentry/static/js/main.6c989a1b.chunk.js",
-  "main.js.map": "/ElyasMTarek/react-typescript-sentry/static/js/main.6c989a1b.chunk.js.map",
-  "static/js/1.306e3931.chunk.js": "/ElyasMTarek/react-typescript-sentry/static/js/1.306e3931.chunk.js",
-  "static/js/1.306e3931.chunk.js.map": "/ElyasMTarek/react-typescript-sentry/static/js/1.306e3931.chunk.js.map",
-  "runtime~main.js": "/ElyasMTarek/react-typescript-sentry/static/js/runtime~main.8c84f32c.js",
-  "runtime~main.js.map": "/ElyasMTarek/react-typescript-sentry/static/js/runtime~main.8c84f32c.js.map",
-  "static/media/logo.svg": "/ElyasMTarek/react-typescript-sentry/static/media/logo.ee7cd8ed.svg",
-  "static/css/main.9bd68662.chunk.css.map": "/ElyasMTarek/react-typescript-sentry/static/css/main.9bd68662.chunk.css.map",
-  "index.html": "/ElyasMTarek/react-typescript-sentry/index.html",
-  "precache-manifest.16e18ac6c161ca878c4aa45813033214.js": "/ElyasMTarek/react-typescript-sentry/precache-manifest.16e18ac6c161ca878c4aa45813033214.js",
-  "service-worker.js": "/ElyasMTarek/react-typescript-sentry/service-worker.js"
+  "main.css": "/react-typescript-sentry/static/css/main.9bd68662.chunk.css",
+  "main.js": "/react-typescript-sentry/static/js/main.75a440ed.chunk.js",
+  "main.js.map": "/react-typescript-sentry/static/js/main.75a440ed.chunk.js.map",
+  "static/js/1.306e3931.chunk.js": "/react-typescript-sentry/static/js/1.306e3931.chunk.js",
+  "static/js/1.306e3931.chunk.js.map": "/react-typescript-sentry/static/js/1.306e3931.chunk.js.map",
+  "runtime~main.js": "/react-typescript-sentry/static/js/runtime~main.28bebfd9.js",
+  "runtime~main.js.map": "/react-typescript-sentry/static/js/runtime~main.28bebfd9.js.map",
+  "static/media/logo.svg": "/react-typescript-sentry/static/media/logo.ee7cd8ed.svg",
+  "static/css/main.9bd68662.chunk.css.map": "/react-typescript-sentry/static/css/main.9bd68662.chunk.css.map",
+  "index.html": "/react-typescript-sentry/index.html",
+  "precache-manifest.ecad6060fc613b4d0647733ff06b4880.js": "/react-typescript-sentry/precache-manifest.ecad6060fc613b4d0647733ff06b4880.js",
+  "service-worker.js": "/react-typescript-sentry/service-worker.js"
 }
