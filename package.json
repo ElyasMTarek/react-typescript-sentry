@@ -2,7 +2,7 @@
   "name": "react-typescript-sentry",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elyasmtarek.github.io/react-typescript/",
+  "homepage": "https://github.com/ElyasMTarek/react-typescript-sentry",
   "dependencies": {
     "@sentry/browser": "^4.5.3",
     "@types/jest": "23.3.13",

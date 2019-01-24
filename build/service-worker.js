@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-typescript/precache-manifest.1a69b7e2aea1245607173c65227c3f93.js"
+  "/ElyasMTarek/react-typescript-sentry/precache-manifest.352824b10f18b14e490d8cbc93d0da4f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-typescript/index.html", {
+workbox.routing.registerNavigationRoute("/ElyasMTarek/react-typescript-sentry/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
