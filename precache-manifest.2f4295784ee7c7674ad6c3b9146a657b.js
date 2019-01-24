@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/ElyasMTarek/react-typescript-sentry/static/js/runtime~main.8c84f32c.js"
   },
   {
-    "revision": "07b8773946e9f3dd1339",
-    "url": "/ElyasMTarek/react-typescript-sentry/static/js/main.07b87739.chunk.js"
+    "revision": "59db1fb3ce3ebe6c5a6a",
+    "url": "/ElyasMTarek/react-typescript-sentry/static/js/main.59db1fb3.chunk.js"
   },
   {
     "revision": "0d71683808213a0896de",
     "url": "/ElyasMTarek/react-typescript-sentry/static/js/1.0d716838.chunk.js"
   },
   {
-    "revision": "07b8773946e9f3dd1339",
+    "revision": "59db1fb3ce3ebe6c5a6a",
     "url": "/ElyasMTarek/react-typescript-sentry/static/css/main.5b8ec513.chunk.css"
   },
   {
-    "revision": "924b32ed7870aeddb8818d722f02754d",
+    "revision": "5754a8fac9773bc097f2ee431ad41ca1",
     "url": "/ElyasMTarek/react-typescript-sentry/index.html"
   }
 ];
