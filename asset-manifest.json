@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-typescript/static/css/main.5b8ec513.chunk.css",
-  "main.js": "/react-typescript/static/js/main.700b542f.chunk.js",
-  "main.js.map": "/react-typescript/static/js/main.700b542f.chunk.js.map",
-  "static/js/1.0d716838.chunk.js": "/react-typescript/static/js/1.0d716838.chunk.js",
-  "static/js/1.0d716838.chunk.js.map": "/react-typescript/static/js/1.0d716838.chunk.js.map",
-  "runtime~main.js": "/react-typescript/static/js/runtime~main.e3736140.js",
-  "runtime~main.js.map": "/react-typescript/static/js/runtime~main.e3736140.js.map",
-  "static/media/logo.svg": "/react-typescript/static/media/logo.ee7cd8ed.svg",
-  "static/css/main.5b8ec513.chunk.css.map": "/react-typescript/static/css/main.5b8ec513.chunk.css.map",
-  "index.html": "/react-typescript/index.html",
-  "precache-manifest.fd76a77d51ed3141b02541454ec905f7.js": "/react-typescript/precache-manifest.fd76a77d51ed3141b02541454ec905f7.js",
-  "service-worker.js": "/react-typescript/service-worker.js"
+  "main.css": "/ElyasMTarek/react-typescript-sentry/static/css/main.5b8ec513.chunk.css",
+  "main.js": "/ElyasMTarek/react-typescript-sentry/static/js/main.07b87739.chunk.js",
+  "main.js.map": "/ElyasMTarek/react-typescript-sentry/static/js/main.07b87739.chunk.js.map",
+  "static/js/1.0d716838.chunk.js": "/ElyasMTarek/react-typescript-sentry/static/js/1.0d716838.chunk.js",
+  "static/js/1.0d716838.chunk.js.map": "/ElyasMTarek/react-typescript-sentry/static/js/1.0d716838.chunk.js.map",
+  "runtime~main.js": "/ElyasMTarek/react-typescript-sentry/static/js/runtime~main.8c84f32c.js",
+  "runtime~main.js.map": "/ElyasMTarek/react-typescript-sentry/static/js/runtime~main.8c84f32c.js.map",
+  "static/media/logo.svg": "/ElyasMTarek/react-typescript-sentry/static/media/logo.ee7cd8ed.svg",
+  "static/css/main.5b8ec513.chunk.css.map": "/ElyasMTarek/react-typescript-sentry/static/css/main.5b8ec513.chunk.css.map",
+  "index.html": "/ElyasMTarek/react-typescript-sentry/index.html",
+  "precache-manifest.352824b10f18b14e490d8cbc93d0da4f.js": "/ElyasMTarek/react-typescript-sentry/precache-manifest.352824b10f18b14e490d8cbc93d0da4f.js",
+  "service-worker.js": "/ElyasMTarek/react-typescript-sentry/service-worker.js"
 }
